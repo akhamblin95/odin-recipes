@@ -4,3 +4,5 @@ Odin-Recipes will be a recipe webpage that tests my understanding of HTML, such 
 Meatball image by Dotdash Meredith Food Studios
 
 Red sauce image by AllRecipes/Ana Cadena
+
+Fresh pasta image by Dotdash Meredith Food Studios
